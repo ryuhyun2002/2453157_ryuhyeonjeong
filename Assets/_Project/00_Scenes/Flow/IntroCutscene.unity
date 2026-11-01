@@ -231,7 +231,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 624c19efac884684a8a76a1472be91b4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 216b32428f0172441b33a51af1cbb20d, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1246,11 +1246,19 @@ MonoBehaviour:
   videoImage: {fileID: 988111362}
   videoPlayer: {fileID: 988111361}
   slides:
-  - image: {fileID: 21300000, guid: 624c19efac884684a8a76a1472be91b4, type: 3}
+  - image: {fileID: 21300000, guid: 216b32428f0172441b33a51af1cbb20d, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 21300000, guid: 8c208f2df74af84449afe5c069b98520, type: 3}
+  - image: {fileID: 21300000, guid: d5a03030c42c2c143bda650ffd9f85b3, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
+  - image: {fileID: 21300000, guid: e215a7be7857a9a448565da7ab16a680, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: bd4e487596346b540a82b16529b6e54e, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 3da9c705a30439349ba6434953eda02c, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: a19c0520048db7347a3047480445b4ac, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 4292d892221ca8d42859d3bd7b9483fc, type: 3}
     video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
